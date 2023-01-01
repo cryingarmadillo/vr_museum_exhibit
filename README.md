@@ -1,2 +1,6 @@
-# vr_museum_exhibit
- Claude Monet VR Museum Exhibition Project
+# Claude Monet VR Museum Exhibition Project
+ Developed by:
+ Kolawole OGUNDOWOLE
+ Zeyu LIU
+ Pruthvi Raju GUNDRATHI
+ 
